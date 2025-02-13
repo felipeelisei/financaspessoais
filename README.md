@@ -1,4 +1,4 @@
-Sistema simples em python puro para servir de estudos. Utilizado MVT (model, view, template)
+Sistema simples para controle de finanças pessoais em python puro para servir de estudos. Utilizado MVT (model, view, template)
 
 1) criar diretorio finacaspessoais
 2) criar venv
